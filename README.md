@@ -6,6 +6,8 @@ In this project, I created a simple Django REST project to practice with unit te
 
 All tests are in **UnitTests/DjangoRestProj/app/exchange_app/tests/**
 
+The dependency version file is stored in **UnitTests/DjangoRestProj/requirements.txt**
+
 **IDE:** PyCharm Professional
 
 **DBMS (СУБД):** SQLite
